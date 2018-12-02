@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "standard",
+    "plugin:prettier/recommended",
+    "prettier/standard",
+    "prettier",
+    "prettier/standard"
+  ],
+  "plugins": [
+    "prettier",
+    "standard"
+  ],
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
+  "rules": {
+    "no-process-env": "error"
+  }
+}

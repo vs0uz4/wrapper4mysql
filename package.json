@@ -1,0 +1,47 @@
+{
+  "name": "wrapper4mysql2",
+  "version": "1.0.0",
+  "description": "A Sample of Wrapper for mysql2/promise Package",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wrapper",
+    "mysql2",
+    "promise",
+    "pool"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vs0uz4/wrapper4mysql2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vs0uz4/wrapper4mysql2/issues"
+  },
+  "author": "Vitor Rodrigues <vitorrodrigues@gmail.com> (https://github.com/vs0uz4)",
+  "homepage": "https://github.com/vs0uz4/wrapper4mysql2#readme",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "6.1.0",
+    "winston": "3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "5.9.0",
+    "prettier": "1.15.3",
+    "standard": "12.0.1",
+    "eslint-config-prettier": "3.3.0",
+    "eslint-config-standard": "12.0.0",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-node": "8.0.0",
+    "eslint-plugin-prettier": "3.0.0",
+    "eslint-plugin-promise": "4.0.1",
+    "eslint-plugin-standard": "4.0.0",
+    "nodemon": "1.18.7"
+  }
+}
