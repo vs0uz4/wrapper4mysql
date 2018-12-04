@@ -115,7 +115,7 @@ The organization, the development environment configuration files and the `READM
 [issues-badge]: https://img.shields.io/github/issues/vs0uz4/wrapper4mysql2.svg
 [issues-url]: https://github.com/vs0uz4/wrapper4mysql2/issues
 
-[closedIssues-badge]: https://img.shields.io/github/issues-closed/vs0uz4/wrapper4mysql2.svg
+[closedIssues-badge]: https://img.shields.io/github/issues-closed/vs0uz4/wrapper4mysql2.svg?label=closed%20issues
 [closedIssues-url]: https://github.com/vs0uz4/wrapper4mysql2/issues?q=is%3Aissue+is%3Aclosed
 
 [codeSize-badge]: https://img.shields.io/github/languages/code-size/vs0uz4/wrapper4mysql2.svg
